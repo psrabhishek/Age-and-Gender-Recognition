@@ -24,4 +24,4 @@ Download the age and gender classification files (**caffe models**) and deploy p
 
 ### References
 1. [Age and Gender Classification Using Convolutional Neural Networks](https://talhassner.github.io/home/publication/2015_CVPR)
-2. [How to build a face detection model in python]https://medium.com/analytics-vidhya/how-to-build-a-face-detection-model-in-python-8dc9cecadfe9
+2. [How to build a face detection model in python](https://medium.com/analytics-vidhya/how-to-build-a-face-detection-model-in-python-8dc9cecadfe9)
